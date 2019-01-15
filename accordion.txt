@@ -1,5 +1,7 @@
 <html>
 	<body>
+	<script src="myscripts.js"></script>
+	<link rel="stylesheet" href="styles.css">
 		<button class="accordion">Section 1</button>
 <div class="panel">
   <p>Lorem ipsum...</p>
